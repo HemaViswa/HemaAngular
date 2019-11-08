@@ -1,2 +1,0 @@
-# HemaAngular
-Created with CodeSandbox
